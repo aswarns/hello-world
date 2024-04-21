@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning, Created while learning JENKINS ..by ASHISH</h1>
+    <h1><b>New user Register for DevOps Learning, Created while learning JENKINS ..by ASHISH</b></h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
